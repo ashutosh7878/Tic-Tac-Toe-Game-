@@ -1,0 +1,114 @@
+body{
+    background-color: #1D1D1D;
+  
+}
+h1,h2{
+    color: white;
+    text-align: center;
+}
+h3{
+    margin-left: 40px;
+    color: rgb(230, 82, 82);
+}
+.L1,.L2,.L3
+{
+  background-color:#1D1D1D;
+  border:none;
+  height:70px;
+  width: 90px;
+  font-size: 40;
+  text-align: center;
+  color: white;
+  font-family:Forte,Stencil Std,Calibri;
+  position: relative;
+  top:20%;
+  left:15%;
+  
+}
+
+
+.L1:focus,.L2:focus,.L3:focus
+{
+  outline: none;
+}
+
+
+
+
+
+
+
+#d
+{
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+}
+
+#b
+{
+  border-bottom: 2px solid white; 
+  border-left: 2px solid white; 
+  border-right: 2px solid white;
+}
+#c,#f
+{
+  border-bottom: 2px solid white;
+ 
+}
+#e
+{
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+  border-bottom: 2px solid white;
+}
+#h
+{
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+}
+
+
+
+#Res
+
+{
+    margin: 0 40px;
+    height: 35px;
+    line-height: 17px;
+    width: 150px;
+    font-family:'Luckiest Guy', Arial, Helvetica, sans-serif;
+    font-size: 12;
+    color: #05750A;;
+    background-color:white;
+    border: 2px solid #9CC784;
+    position: fixed;
+    top: -10%;
+    left: 0%;
+    right:0%;
+    margin:auto;
+    text-align: center;
+    box-shadow: 5px 7px 35px 10px black;
+
+    
+}
+  #Score
+{
+    
+    height: 30px;
+    line-height: 30px;
+    width: 300px;
+    font-family:'Luckiest Guy', Arial, Helvetica, sans-serif;
+    font-size: 18;
+    color: #05750A;;
+    background-color:white;
+    border: 2px solid #9CC784;
+    position: fixed;
+    bottom: 2%;
+    left: 0%;
+    right: 0%;
+    margin: auto;
+    text-align: center;
+    box-shadow: 5px 7px 35px 10px black;
+
+}
+
